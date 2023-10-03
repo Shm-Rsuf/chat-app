@@ -1,16 +1,22 @@
 {
   "users": [
     {
-      "email": "test@react.dev",
-      "password": "$2a$10$ggnMNVAI0fBMitytX3/K3uKUcYlxUm9StUXsrWW/lyz5DbNfuRACq",
-      "name": "test",
+      "email": "usuf@react.dev",
+      "password": "$2a$10$7TcMZbxaZ.FRLApcM0HqWOmEIjErr9KbSr5jS39lZz1gVFfhjy8v2",
+      "name": "name",
       "id": 1
     },
     {
-      "email": "usuf@react.dev",
-      "password": "$2a$10$.55tFnPUHUqZAhX.Q2LnsOddYLEEjRGOI5EmhOjo25e2WLLUM5Nkm",
+      "email": "usuf@react.com",
+      "password": "$2a$10$9p1O.55SsCjiAej5RRP8lOXW.fwc1EHp7kWEpkrVpcPEbdfS5YOlq",
       "name": "usuf",
       "id": 2
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$WYfPy/ZoKU1kZtFOmLKdPOfEkGmQZpoY0fwjkVjaDcaxQQhrzPR4q",
+      "name": "test 2",
+      "id": 3
     }
   ],
   "conversations": [
