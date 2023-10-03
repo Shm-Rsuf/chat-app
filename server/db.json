@@ -5,6 +5,12 @@
       "password": "$2a$10$ggnMNVAI0fBMitytX3/K3uKUcYlxUm9StUXsrWW/lyz5DbNfuRACq",
       "name": "test",
       "id": 1
+    },
+    {
+      "email": "usuf@react.dev",
+      "password": "$2a$10$.55tFnPUHUqZAhX.Q2LnsOddYLEEjRGOI5EmhOjo25e2WLLUM5Nkm",
+      "name": "usuf",
+      "id": 2
     }
   ],
   "conversations": [
